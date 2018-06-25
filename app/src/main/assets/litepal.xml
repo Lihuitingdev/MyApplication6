@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="myapplication6"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.myapplication.db.Province"/>
+        <mapping class="com.example.myapplication.db.City"/>
+        <mapping class="com.example.myapplication.db.Country"/>
+    </list>
+</litepal>
